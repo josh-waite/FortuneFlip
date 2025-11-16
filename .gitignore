@@ -1,0 +1,26 @@
+# React Native
+node_modules/
+build/
+android/app/build/
+ios/Pods/
+*.iml
+.gradle/
+.expo/
+.expo-shared/
+web-build/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Metro
+.metro/
+# VS Code
+.vscode/
+# macOS
+.DS_Store
+# Xcode
+*.xcworkspace
+xcuserdata/
+DerivedData/
+# Bundle artifacts
+*.jsbundle
